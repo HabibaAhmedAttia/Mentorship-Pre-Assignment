@@ -1,0 +1,2 @@
+2024-11-07 08:34:14.572 [main] ERROR mentorShipAssignment.Assignment - Duplicate entry '101' for key 'students.PRIMARY'
+2024-11-07 08:34:14.582 [main] ERROR mentorShipAssignment.Assignment - Duplicate entry '102' for key 'students.PRIMARY'
